@@ -3148,6 +3148,7 @@ body.lock {
   background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #DFDFDF 100%);
 }
 .content-news-page {
+  position: relative;
   padding: 60px 0;
 }
 @media (max-width: 479.98px) {
